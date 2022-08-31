@@ -13,7 +13,7 @@ const Home = () => {
     let nfts; 
     console.log("fetching nfts");
 
-    const api_key = "Zes2TCM2uq1Gpmd-WOZD8Lb4TejJXBAu"
+    const api_key = "_nSZRXCS8IGUSbiqRvZuRcrsjBV9jy9r"
 
 
 
@@ -45,7 +45,7 @@ const Home = () => {
         method: 'GET'
       };
 
-      const api_key = "Zes2TCM2uq1Gpmd-WOZD8Lb4TejJXBAu"
+      const api_key = "_nSZRXCS8IGUSbiqRvZuRcrsjBV9jy9r"
       // const api_key = ""
       // const api_key = ""
 
